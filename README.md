@@ -71,3 +71,51 @@ F1-Telemetry-Dashboard/
 │   └── requirements.txt
 │
 └── README.md
+
+📊 Data Source
+
+The project uses the FastF1 Python library to access and analyse Formula 1 session data.
+The data is used to provide information such as:
+Driver lap times
+Telemetry information
+Race sessions
+Track data
+Driver performance statistics
+
+
+👥 Team Members
+
+Team Member     	    Role
+Md Kasif Ali    	    Frontend Development
+Mullick Waliullah	   Frontend Development
+Syed Tabrez	         Backend Development
+Aribah Tahseen	      Backend Development
+
+
+🎯 Project Objective
+
+The main objectives of this project are:
+
+Help new Formula 1 fans understand racing data
+Present complex F1 information in a simple visual format
+Explore Formula 1 telemetry and driver performance
+Apply frontend and backend development skills in a real-world project
+Build an engaging project based on our shared interest in Formula 1
+
+
+🔮 Future Improvements
+
+Add live Formula 1 race data
+Add more detailed telemetry graphs
+Add race-result predictions
+Add driver and team comparisons
+Add a dark/light mode switch
+Improve mobile responsiveness
+Add more Formula 1 seasons
+Add user accounts and personalised dashboards
+
+
+⭐ Support
+If you like this project, please consider giving the repository a star ⭐ on GitHub.
+
+
